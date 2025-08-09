@@ -16,7 +16,7 @@ Includes **AWS CI/CD deployment with GitHub Actions**.
 - Update the **pipeline**
 - Update `main.py`
 - Update `dvc.yaml`
-- `app.py` for local inference
+- `app.py` for endpoint local inference
 
 ---
 
@@ -30,8 +30,8 @@ cd DL_kidney-end-to-end-project-MLflow-DVC-Deployment
 
 ### 2️⃣ Create Conda Environment
 ```bash
-conda create -n cnncls python=3.8 -y
-conda activate cnncls
+conda create -n kidney python=3.11 -y
+conda activate kidney
 ```
 
 ### 3️⃣ Install Requirements
