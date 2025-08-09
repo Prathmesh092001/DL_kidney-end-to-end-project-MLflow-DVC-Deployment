@@ -1,5 +1,8 @@
 # DL_kidney-end-to-end-project-MLflow-DVC-Deployment
 
-ECR REPO
+## How to run
 
-Save the Uri: 555208425878.dkr.ecr.eu-north-1.amazonaws.com/kidney
+STEPS:
+Clone repository
+"DL_kidney-end-to-end-project-MLflow-DVC-Deployment"
+

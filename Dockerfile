@@ -33,3 +33,6 @@ COPY . .
 
 # Default command
 CMD ["python", "app.py"]
+
+
+
