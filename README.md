@@ -3,6 +3,8 @@
 ## How to run
 
 STEPS:
-Clone repository
-"DL_kidney-end-to-end-project-MLflow-DVC-Deployment"
+
+### Clone repository
+
+#### "DL_kidney-end-to-end-project-MLflow-DVC-Deployment"
 
